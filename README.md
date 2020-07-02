@@ -23,11 +23,17 @@ platform = espressif8266
 board = esp12e
 framework = arduino
 
-lib_deps =
+Libdaries 
 1. 7364 ;Modbus IP
 2. 11 ;I2Cdev.h
 3. PID
 4. EspSoftwareSerial
 5. MPU6050 library
+
+# To set up environment
+1. Download the libraries from github, put/extract them into arduino library folder
+2. Clone this repository and open it with arduino IDE
+3. Go to Drone Controller app
+3. Contribute, open issues, requests, etc
     
  ***STILL IN DEVELOPMENT***
