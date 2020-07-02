@@ -12,11 +12,11 @@ Devices:
 2. ESP8266 (any chip)
 
 The rest is optional, it depends on your design
-3. MOSFET (IRFZ/ IRFL etc)
-4. SmallBrushed Motor
-5. Propellers
-6. Frame
-7. etc
+1. MOSFET (IRFZ/ IRFL etc)
+2. SmallBrushed Motor
+3. Propellers
+4. Frame
+5. etc
 
 [env:esp12e]
 platform = espressif8266
