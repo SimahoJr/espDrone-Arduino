@@ -65,3 +65,5 @@
 #
 # script:
 #     - platformio ci --lib="." --board=ID_1 --board=ID_2 --board=ID_N
+- name: TODO to Issue
+  uses: alstr/todo-to-issue-action@v1.2-beta
