@@ -3,7 +3,7 @@ This repository contains codes to realize an expensive espDrone
 
 # espDrone
 
-The espDrone works with Drone Controller https://github.com/Simaho99/espDroneController.git
+The espDrone works with Drone Controller https://github.com/SimahoJr/espDroneController.git
 
 Use uptodate Arduino IDE, or Platformio in VS Code 
 
