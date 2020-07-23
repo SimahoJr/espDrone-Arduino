@@ -9,7 +9,7 @@ Use uptodate Arduino IDE, or Platformio in VS Code
 
 Devices:
 1. MPU6050
-2. ESP8266 (any chip)
+2. ESP8266 (Any Firmware)
 
 The rest is optional, it depends on your design
 1. MOSFET (IRFZ/ IRFL etc)
