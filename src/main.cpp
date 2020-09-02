@@ -407,6 +407,7 @@ void loop() {
             -Add PID values to modbus to send the values should be the Angle values
             -Find a way to send negative numbers
             -Find a way to send Float Numbers
+            -Important
             */
     
     motorSpeed[0] = throttle + rollOutput - pitchOutput - yawOutput;
