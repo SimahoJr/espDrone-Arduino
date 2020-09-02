@@ -3,13 +3,13 @@ This repository contains codes to realize an expensive espDrone
 
 # espDrone
 
-The espDrone works with Drone Controller https://github.com/Simaho99/espDroneController.git
+The espDrone works with Drone Controller https://github.com/SimahoJr/espDroneController.git
 
 Use uptodate Arduino IDE, or Platformio in VS Code 
 
 Devices:
 1. MPU6050
-2. ESP8266 (any chip)
+2. ESP8266 (Any Firmware)
 
 The rest is optional, it depends on your design
 1. MOSFET (IRFZ/ IRFL etc)
